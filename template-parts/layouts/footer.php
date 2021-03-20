@@ -1,8 +1,8 @@
-<footer class="footer uk-section-small">
+<footer class="footer uk-section" uk-scrollspy="cls: uk-animation-slide-bottom; target: .animation; delay: 0; repeat: false">
     <div class="uk-container">
         <div class="uk-grid-80-m" uk-grid>
             <div class="uk-width-auto@m">
-                <figure class="uk-text-center uk-text-left@m">
+                <figure class="uk-text-center uk-text-left@m animation">
                     <a href=""><img src="images/logo_f.png" alt=""></a>
                 </figure>
             </div>
@@ -10,7 +10,7 @@
                 <div class="uk-flex-middle uk-grid-57-m" uk-grid>
                     <div class="uk-width-expand">
                         <div class="uk-child-width-1-3@m uk-grid-59-m" uk-grid>
-                            <div>
+                            <div class="animation">
                                 <h5 class="uk-h5 footer__title">Hỗ trợ tư vấn</h5>
                                 <ul class="uk-list footer__list1">
                                     <li>Điện thoại: +84 23 8350 2368 </li>
@@ -24,7 +24,7 @@
                                     <li><a href="" uk-icon="icon: linkedin; ratio: 1" uk-tooltip="Linkedin"></a></li>
                                 </ul>
                             </div>
-                            <div>
+                            <div class="animation">
                                 <h5 class="uk-h5 footer__title">Liên kết nhanh</h5>
                                 <ul class="uk-list footer__list2">
                                     <li><a href="">Trang chủ</a></li>
@@ -33,7 +33,7 @@
                                     <li><a href="">Liên hệ</a></li>
                                 </ul>
                             </div>
-                            <div>
+                            <div class="animation">
                                 <h5 class="uk-h5 footer__title">Theo dõi chúng tôi</h5>
                                 <form>
                                     <fieldset class="uk-fieldset">
@@ -52,7 +52,7 @@
                         </div>
                     </div>
                     <div class="uk-width-auto@m">
-                        <a href=""><img src="images/logoSaleNoti1.png" alt=""></a>
+                        <a href="" class="animation"><img src="images/logoSaleNoti1.png" alt=""></a>
                     </div>
                 </div>
             </div>
