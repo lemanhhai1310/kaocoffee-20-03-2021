@@ -1,4 +1,4 @@
-<footer class="footer uk-section" uk-scrollspy="cls: uk-animation-slide-bottom; target: .animation; delay: 0; repeat: false">
+<footer class="footer uk-section" uk-scrollspy="cls: uk-animation-slide-bottom-small; target: .animation; delay: 0; repeat: false">
     <div class="uk-container">
         <div class="uk-grid-80-m" uk-grid>
             <div class="uk-width-auto@m">

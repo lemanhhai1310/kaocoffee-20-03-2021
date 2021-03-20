@@ -2,11 +2,17 @@
 <?php $is_home = true; ?>
 <?php require "template-parts/layouts/header.php"; ?>
 
-<?php require "template-parts/layouts/block04.php"; ?>
+<!--Slide-->
+<?php require "template-parts/layouts/block05.php"; ?>
+<!--/Slide-->
 
-<!--Snacks-->
+<!--Coffee & More-->
+<?php require "template-parts/layouts/block04.php"; ?>
+<!--/Coffee & More-->
+
+<!--Tea & Another-->
 <?php require "template-parts/layouts/block03.php"; ?>
-<!--/Snacks-->
+<!--/Tea & Another-->
 
 <!--Snacks-->
 <?php require "template-parts/layouts/block02.php"; ?>

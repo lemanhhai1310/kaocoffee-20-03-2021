@@ -21,3 +21,39 @@
 <body class="<?= ($is_home) ? 'isHome' : '' ?>">
 <?php require "template-parts/commons/facebook_chat.php"; ?>
 <section id="app" class="uk-height-viewport uk-offcanvas-content uk-overflow-hidden uk-position-relative">
+<div uk-sticky="">
+    <header class="header <?= ($is_home) ? 'uk-position-top uk-position-z-index' : 'uk-background-02' ?>">
+        <div class="uk-container uk-padding-remove">
+            <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
+                <div class="uk-navbar-left">
+                    <a href="." class="uk-navbar-item uk-logo"><img src="images/logo.png" alt=""></a>
+                </div>
+                <div class="uk-navbar-right">
+                    <ul class="uk-navbar-nav uk-visible@m">
+                        <li class="uk-active"><a href=".">Trang chủ</a></li>
+                        <li><a href="menu.php">Menu</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Liên hệ</a></li>
+                    </ul>
+                    <div>
+                        <a class="uk-navbar-toggle" href="#" uk-search-icon></a>
+                        <div class="uk-navbar-dropdown" uk-drop="mode: click; cls-drop: uk-navbar-dropdown; boundary: !nav">
+
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <form class="uk-search uk-search-navbar uk-width-1-1">
+                                        <input class="uk-search-input" type="search" placeholder="Search" autofocus>
+                                    </form>
+                                </div>
+                                <div class="uk-width-auto">
+                                    <a class="uk-navbar-dropdown-close" href="#" uk-close></a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+</div>
