@@ -1,0 +1,83 @@
+.menu{
+  &__txt1{
+    @extend .fz-16;
+    color: #444444;
+  }
+  &__txt2{
+    @extend .fz-16;
+    color: #828282;
+  }
+  &__card1{
+    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.25);
+    @include media-breakpoint-up('m'){
+      border-radius: 20px;
+    }
+  }
+  &__titleThucdon{
+    font-family: $font-Roboto-Bold;
+    @extend .fz-24;
+    line-height: (28/24);
+  }
+  &__nav1{
+    >li{
+      &.uk-active{
+        >a{
+          color: $color1;
+        }
+      }
+      >a{
+        @extend .fz-16;
+        color: #444444;
+      }
+    }
+  }
+  &__content{
+    @include media-breakpoint-up('m'){
+      border-radius: 20px;
+    }
+  }
+  &__boxSearch{
+    .uk-search-input{
+      @extend .fz-16;
+    }
+  }
+  &__title1{
+    @extend .fz-20;
+    line-height: (23/20);
+    font-family: $font-Roboto-Bold;
+    color: #444444;
+    padding-bottom: 12px;
+    position: relative;
+    margin-top: 0 !important;
+    @include media-breakpoint-up('m'){
+      margin-bottom: 20px !important;
+    }
+    &:after{
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      background: url(images/line1.png);
+      display: inline-block;
+      width: 110px;
+      height: 5px;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  &__overflow{
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    @include media-breakpoint-up('m'){
+      max-height: 896px;
+    }
+  }
+  &__card2{
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+    @include media-breakpoint-up('m'){
+      border-radius: 30px;
+    }
+  }
+}
