@@ -22,7 +22,7 @@
                             <div class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-top">
                                 <div class="uk-section-xsmall">
                                     <h3 class="uk-h3 menu__titleThucdon">Thực đơn</h3>
-                                    <ul class="uk-nav uk-nav-default menu__nav1">
+                                    <ul class="uk-nav uk-nav-default menu__nav1" uk-scrollspy-nav="closest: li; scroll: true">
                                         <li class="uk-active"><a href="#">Coffee & More</a></li>
                                         <li><a href="#">Tea & Another</a></li>
                                         <li><a href="#">Snacks</a></li>
@@ -31,7 +31,7 @@
                             </div>
                         </div>
                         <div class="uk-width-expand">
-                            <div class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-top">
+                            <div class="uk-padding-small menu__padding1 uk-padding-remove-bottom uk-padding-remove-top">
                                 <div class="uk-section-xsmall">
                                     <div class="uk-margin">
                                         <form class="uk-search uk-search-default menu__boxSearch">
@@ -39,30 +39,86 @@
                                             <input class="uk-search-input" type="search" placeholder="Tìm món nhanh">
                                         </form>
                                     </div>
-                                    <h3 class="uk-h3 menu__title1">Coffee & More</h3>
-                                    <div class="uk-overflow-auto uk-height-max-large menu__overflow">
-                                        <div class="uk-grid-small uk-grid-20-m" uk-grid>
-                                            <?php for($i=0;$i<=10;$i++): ?>
-                                            <div class="uk-width-1-1">
-                                                <div class="uk-card menu__card2 uk-card-default uk-card-body uk-padding-small uk-border-rounded">
-                                                    <div class="uk-flex-middle" uk-grid>
-                                                        <div class="uk-width-auto@m">
-                                                            <div>
-                                                                <img src="images/mug_coffee_PNG168241.png" alt="">
+                                    <div class="uk-margin-medium">
+                                        <h3 class="uk-h3 menu__title1">Coffee & More</h3>
+                                        <div class="uk-overflow-auto uk-height-max-large menu__overflow">
+                                            <div class="uk-grid-small uk-grid-20-m" uk-grid>
+                                                <?php for($i=0;$i<=10;$i++): ?>
+                                                    <div class="uk-width-1-1">
+                                                        <div class="uk-card menu__card2 uk-card-default uk-card-body uk-padding-small uk-border-rounded">
+                                                            <div class="uk-flex-middle" uk-grid>
+                                                                <div class="uk-width-auto@m">
+                                                                    <div class="menu__card2__bg">
+                                                                        <img class="uk-responsive-height uk-responsive-width" src="images/mug_coffee_PNG168241.png" alt="">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="uk-width-expand">
+                                                                    <div class="menu__card2__title">Coffee Cappuccino</div>
+                                                                    <div class="menu__card2__txt">VNĐ</div>
+                                                                    <div class="menu__card2__price menu__card2__price__old"><del>50.000đ</del></div>
+                                                                    <div class="menu__card2__price menu__card2__price__new">50.000đ</div>
+                                                                </div>
+                                                                <div class="uk-width-auto@m">
+                                                                    <a href="" class="menu__card2__link" uk-icon="icon: plus-circle; ratio: 1"></a>
+                                                                </div>
                                                             </div>
                                                         </div>
-                                                        <div class="uk-width-expand">
-                                                            <div>Coffee Cappuccino</div>
-                                                            <div>VNĐ</div>
-                                                            <div><del>50.000đ</del></div>
-                                                            <div>50.000đ</div>
-                                                        </div>
-                                                        <div class="uk-width-auto@m">
-                                                            <a href="" uk-icon="icon: plus-circle; ratio: 1"></a>
+                                                    </div>
+                                                <?php endfor; ?>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="uk-margin-medium">
+                                        <h3 class="uk-h3 menu__title1">Tea  & Another</h3>
+                                        <div class="uk-grid-small uk-grid-20-m" uk-grid>
+                                            <?php for($i=0;$i<=2;$i++): ?>
+                                                <div class="uk-width-1-1">
+                                                    <div class="uk-card menu__card2 uk-card-default uk-card-body uk-padding-small uk-border-rounded">
+                                                        <div class="uk-flex-middle" uk-grid>
+                                                            <div class="uk-width-auto@m">
+                                                                <div class="menu__card2__bg">
+                                                                    <img class="uk-responsive-height uk-responsive-width" src="images/mug_coffee_PNG168241.png" alt="">
+                                                                </div>
+                                                            </div>
+                                                            <div class="uk-width-expand">
+                                                                <div class="menu__card2__title">Coffee Cappuccino</div>
+                                                                <div class="menu__card2__txt">VNĐ</div>
+                                                                <div class="menu__card2__price menu__card2__price__old"><del>50.000đ</del></div>
+                                                                <div class="menu__card2__price menu__card2__price__new">50.000đ</div>
+                                                            </div>
+                                                            <div class="uk-width-auto@m">
+                                                                <a href="" class="menu__card2__link" uk-icon="icon: plus-circle; ratio: 1"></a>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            <?php endfor; ?>
+                                        </div>
+                                    </div>
+                                    <div class="uk-margin-medium">
+                                        <h3 class="uk-h3 menu__title1">Snacks</h3>
+                                        <div class="uk-grid-small uk-grid-20-m" uk-grid>
+                                            <?php for($i=0;$i<=2;$i++): ?>
+                                                <div class="uk-width-1-1">
+                                                    <div class="uk-card menu__card2 uk-card-default uk-card-body uk-padding-small uk-border-rounded">
+                                                        <div class="uk-flex-middle" uk-grid>
+                                                            <div class="uk-width-auto@m">
+                                                                <div class="menu__card2__bg">
+                                                                    <img class="uk-responsive-height uk-responsive-width" src="images/mug_coffee_PNG168241.png" alt="">
+                                                                </div>
+                                                            </div>
+                                                            <div class="uk-width-expand">
+                                                                <div class="menu__card2__title">Coffee Cappuccino</div>
+                                                                <div class="menu__card2__txt">VNĐ</div>
+                                                                <div class="menu__card2__price menu__card2__price__old"><del>50.000đ</del></div>
+                                                                <div class="menu__card2__price menu__card2__price__new">50.000đ</div>
+                                                            </div>
+                                                            <div class="uk-width-auto@m">
+                                                                <a href="" class="menu__card2__link" uk-icon="icon: plus-circle; ratio: 1"></a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             <?php endfor; ?>
                                         </div>
                                     </div>
