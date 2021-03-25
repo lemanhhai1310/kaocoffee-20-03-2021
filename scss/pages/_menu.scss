@@ -42,6 +42,7 @@
     }
   }
   &__title1{
+    background-color: #fff;
     @extend .fz-20;
     line-height: (23/20);
     font-family: $font-Roboto-Bold;
@@ -89,7 +90,7 @@
     }
   }
   &__padding1{
-    padding-right: 30px;
+    //padding-right: 30px;
   }
   &__card2{
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);

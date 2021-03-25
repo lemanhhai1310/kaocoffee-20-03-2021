@@ -3,6 +3,13 @@
     background-color: $color2;
     box-shadow: 0 2px 8px rgba(0,0,0,.08);
   }
+  .uk-search-icon{
+    svg{
+      >*{
+        stroke: #ffffff !important;
+      }
+    }
+  }
   &__navitem{
     transition: all .3s;
     min-height: 60px;

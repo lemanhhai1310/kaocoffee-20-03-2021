@@ -21,7 +21,7 @@
 <body class="<?= ($is_home) ? 'isHome' : '' ?>">
 <?php require "template-parts/commons/facebook_chat.php"; ?>
 <section id="app" class="uk-height-viewport uk-offcanvas-content uk-overflow-hidden uk-position-relative">
-<div uk-sticky="">
+<div uk-sticky="" style="z-index: 1000;">
     <header class="header <?= ($is_home) ? 'uk-position-top uk-position-z-index' : 'uk-background-02' ?>">
         <div class="uk-container uk-padding-remove">
             <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>

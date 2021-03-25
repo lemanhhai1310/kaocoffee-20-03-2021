@@ -260,6 +260,9 @@
       <change afterPath="$PROJECT_DIR$/../sendmail/send-mailer.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sendmail/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sendmail/submission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thithu-thpt/images/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thithu-thpt/scss/layout/_block01.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thithu-thpt/template-parts/layouts/block01.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit-rtl.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit-rtl.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit.css" afterDir="false" />
@@ -291,9 +294,11 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/pages/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_menu.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.min.css" beforeDir="false" />
@@ -372,7 +377,10 @@
       <workItem from="1616210430980" duration="4040000" />
       <workItem from="1616221892586" duration="17772000" />
       <workItem from="1616491669397" duration="500000" />
-      <workItem from="1616507701922" duration="598000" />
+      <workItem from="1616507701922" duration="1208000" />
+      <workItem from="1616545890580" duration="2034000" />
+      <workItem from="1616563463264" duration="285000" />
+      <workItem from="1616648254921" duration="954000" />
     </task>
     <servers />
   </component>
@@ -380,9 +388,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2480" y="215" key="#Deployment" timestamp="1616649610395">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2480" y="215" key="#Deployment/49.25.1871.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616649610395" />
     <state x="1636" y="660" key="NewPhpFileDialog" timestamp="1616233708318">
       <screen x="60" y="25" width="3380" height="1415" />
     </state>
     <state x="1636" y="660" key="NewPhpFileDialog/60.25.3380.1415@60.25.3380.1415" timestamp="1616233708318" />
+    <state x="2771" y="287" key="ftp.server.browser" timestamp="1616649606267">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2771" y="287" key="ftp.server.browser/49.25.1871.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616649606267" />
   </component>
 </project>
