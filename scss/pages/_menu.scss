@@ -122,4 +122,74 @@
       }
     }
   }
+  &__card3{
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    @include media-breakpoint-up('m'){
+      border-radius: 30px;
+    }
+    .uk-card-header{
+      padding: 15px 20px;
+    }
+    &__table{
+      &__btn{
+        background-color: $color1;
+        color: #ffffff;
+        padding: 0 25px;
+        min-height: 62px;
+        box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+      }
+      &__w1{
+        min-width: 18px;
+      }
+      &__txt1{
+        @extend .fz-16;
+        color: #444444;
+      }
+      &__txt2{
+        @extend .fz-16;
+        color: #444444;
+        font-family: $font-Roboto-Black;
+      }
+    }
+    &__submit{
+      &__txt1{
+        @extend .fz-14;
+      }
+      &__txt2{
+        @extend .fz-14;
+      }
+      &__txt3{
+        @extend .fz-16;
+        font-family: $font-Roboto-Black;
+      }
+      &__txt4{
+        @extend .fz-18;
+        font-family: $font-Roboto-Black;
+      }
+    }
+    &__box1{
+      &__btn{
+        color: #ffffff;
+        @extend .fz-16;
+        right: -8px;
+        background: $color1;
+        font-family: $font-Roboto-Black;
+      }
+      &__close{
+        svg{
+          $x: 10px;
+          width: #{$x};
+          height: #{$x};
+        }
+      }
+      &__input{
+        @extend .fz-16;
+      }
+      &__txt{
+        @extend .fz-16;
+      }
+    }
+  }
 }
