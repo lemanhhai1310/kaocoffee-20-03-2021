@@ -19,7 +19,7 @@
                 <div class="uk-background-default uk-border-rounded menu__content">
                     <div class="uk-grid-divider uk-grid-small uk-grid-match" uk-grid>
                         <div class="uk-width-1-4@m">
-                            <div class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-top" uk-sticky="offset: 80;media: @m">
+                            <div class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-top" uk-sticky="offset: 80;media: @m;bottom: true;">
                                 <div class="uk-section-xsmall">
                                     <h3 class="uk-h3 menu__titleThucdon">Thực đơn</h3>
                                     <ul class="uk-nav uk-nav-default menu__nav1" uk-scrollspy-nav="closest: li; scroll: true;offset: 80;">
@@ -94,7 +94,7 @@
                                         </div>
                                     </div>
                                     <div class="uk-margin-medium" id="snack1">
-                                        <h3 class="uk-h3 menu__title1" id="snack" uk-sticky="offset: 100;media: @m">Snacks</h3>
+                                        <h3 class="uk-h3 menu__title1" id="snack" uk-sticky="offset: 100;media: @m;bottom: true;">Snacks</h3>
                                         <div class="uk-grid-small uk-grid-20-m" uk-grid>
                                             <?php for($i=0;$i<=2;$i++): ?>
                                                 <div class="uk-width-1-1">
@@ -127,7 +127,7 @@
                 </div>
             </div>
             <div class="uk-width-1-3@m">
-                <div class="uk-card uk-card-default menu__card3 uk-overflow-hidden" uk-sticky="offset: 100;media: @m">
+                <div class="uk-card uk-card-default menu__card3 uk-overflow-hidden" uk-sticky="offset: 100;media: @m;bottom: true;">
                     <div class="uk-card-header">
                         <h3 class="uk-h3 menu__titleThucdon">Món chọn</h3>
                     </div>
