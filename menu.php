@@ -1,6 +1,19 @@
 <?php $data["title"] = "Menu"; ?>
 <?php $is_home = false; ?>
 <?php require "template-parts/layouts/header.php"; ?>
+<div class="uk-background-norepeat menu__section1 uk-position-relative uk-background-cover uk-light" data-src="images/05600a6dc19a37ef746fb267902398bf2.png" uk-img>
+    <div class="uk-position-cover menu__overlay"></div>
+    <div class="uk-position-relative uk-position-z-index uk-section-small uk-text-center">
+        <div class="uk-container">
+            <h1 class="uk-h1 menu__title2">Menu</h1>
+            <ul class="uk-breadcrumb">
+                <li><a href="">Home</a></li>
+                <li><a href="">Menu</a></li>
+                <li><span>Đặt hàng</span></li>
+            </ul>
+        </div>
+    </div>
+</div>
 <div class="uk-section-xsmall uk-background-muted" uk-height-viewport="offset-bottom: true;offset-top: true">
     <div class="uk-container">
         <div class="uk-grid-5 uk-margin" uk-grid>

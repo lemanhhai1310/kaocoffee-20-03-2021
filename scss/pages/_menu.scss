@@ -1,4 +1,28 @@
 .menu{
+  &__overlay{
+    background-color: rgba(#444444,0.54);
+  }
+  &__section1{
+    .uk-breadcrumb{
+      >li{
+        >a{
+
+        }
+        >span{
+
+        }
+      }
+    }
+  }
+  &__title2{
+    @extend .fz-122;
+    color: #FFFFFF;
+    font-family: $font-Roboto-Bold;
+    //border: 1px solid #000000;
+    text-shadow: 4px 4px 4px rgba(242, 103, 73, 0.5);
+    line-height: (143/122);
+    margin-bottom: 18px;
+  }
   &__txt1{
     @extend .fz-16;
     color: #444444;
