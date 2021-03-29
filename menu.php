@@ -199,7 +199,7 @@
                                         <p class="menu__card3__box1__txt">Bạn đã được giảm giá 10.000đ</p>
                                     </div>
                                 </div>
-                                <a href="" class="uk-link-toggle">
+                                <a href="order.php" class="uk-link-toggle">
                                     <div class="menu__card3__table__btn">
                                         <div class="uk-flex-middle" uk-grid>
                                             <div class="uk-width-expand">
