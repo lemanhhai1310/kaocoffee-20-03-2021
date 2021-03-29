@@ -33,7 +33,7 @@
                         <li class="uk-active"><a href=".">Trang chủ</a></li>
                         <li><a href="menu.php">Menu</a></li>
                         <li><a href="blog.php">Blog</a></li>
-                        <li><a href="#">Liên hệ</a></li>
+                        <li><a href="contact.php">Liên hệ</a></li>
                     </ul>
                     <div>
                         <a class="uk-navbar-toggle" href="#" uk-search-icon></a>

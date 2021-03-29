@@ -1,6 +1,5 @@
 <?php $data["title"] = "Blog"; ?>
 <?php $is_home = false; ?>
-<?php $showkh = false; ?>
 <?php require "template-parts/layouts/header.php"; ?>
 
 
