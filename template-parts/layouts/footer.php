@@ -27,10 +27,10 @@
                             <div class="animation">
                                 <h5 class="uk-h5 footer__title">Liên kết nhanh</h5>
                                 <ul class="uk-list footer__list2">
-                                    <li><a href="">Trang chủ</a></li>
-                                    <li><a href="">Menu</a></li>
-                                    <li><a href="">Blog</a></li>
-                                    <li><a href="">Liên hệ</a></li>
+                                    <li><a href=".">Trang chủ</a></li>
+                                    <li><a href="menu.php">Menu</a></li>
+                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="contact.php">Liên hệ</a></li>
                                 </ul>
                             </div>
                             <div class="animation">
