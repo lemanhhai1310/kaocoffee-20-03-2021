@@ -3,13 +3,22 @@
     background-color: rgba(#444444,0.54);
   }
   &__section1{
+    &__dc{
+      @extend .fz-48;
+      color: #FFFFFF !important;
+    }
     .uk-breadcrumb{
       >li{
+        &:nth-child(n+2){
+          &:before{
+            @extend .menu__section1__dc;
+          }
+        }
         >a{
-
+          @extend .menu__section1__dc;
         }
         >span{
-
+          @extend .menu__section1__dc;
         }
       }
     }

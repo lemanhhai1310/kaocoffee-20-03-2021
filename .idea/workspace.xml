@@ -11808,103 +11808,10 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/tracuudonhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/tracuudonhang.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kaocoffee.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kaocoffee.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/jquery/3.5.1/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/jquery/3.5.1/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/uikit-3.6.18/css/uikit-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uikit-3.6.18/css/uikit-rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/uikit-3.6.18/css/uikit-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uikit-3.6.18/css/uikit-rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/uikit-3.6.18/css/uikit.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uikit-3.6.18/css/uikit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/uikit-3.6.18/css/uikit.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uikit-3.6.18/css/uikit.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/uikit-3.6.18/js/uikit-icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uikit-3.6.18/js/uikit-icons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/uikit-3.6.18/js/uikit-icons.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uikit-3.6.18/js/uikit-icons.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/uikit-3.6.18/js/uikit.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uikit-3.6.18/js/uikit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/uikit-3.6.18/js/uikit.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uikit-3.6.18/js/uikit.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Arial/arial.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Arial/arial.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fonts/SVN-Gotham-Black.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Fonts/SVN-Gotham-Black.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fonts/Verdana-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Fonts/Verdana-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fonts/Verdana.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Fonts/Verdana.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/404.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/404.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Frame.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Frame.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Group-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Group-left.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Group66-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Group66-right.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Group90.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Group90.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banh-snack-khoai-tay-nong-hoi1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/banh-snack-khoai-tay-nong-hoi1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg_lienhe.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_lienhe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/european-specialty-coffee-market-by-pointbleu-design-blog-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/european-specialty-coffee-market-by-pointbleu-design-blog-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/european-specialty-coffee-market-by-pointbleu-design-blog1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/european-specialty-coffee-market-by-pointbleu-design-blog1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/khoai-tay-chien1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/khoai-tay-chien1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lemanhhai_anhthe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lemanhhai_anhthe.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/line1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/line1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logoSaleNoti1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logoSaleNoti1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_f.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo_f.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mug_coffee_PNG168241.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mug_coffee_PNG168241.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/noimage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/noimage.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_breakpoints.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_color.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_helpers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_uikits.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_uikits.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_animations.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_breadcrumb.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_carousel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_fontsize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_fontsize.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_keyframes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_keyframes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_margin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_margin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_modal.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_slider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_tabs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_block01.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_block01.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_block02.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_block02.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_block03.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_block03.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_block04.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_block04.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_block05.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_block05.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_contact.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_home.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/pages/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_menu.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/themes/_admin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/themes/_admin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/themes/_theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/themes/_theme.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/vendors/_bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/vendors/_bootstrap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/vendors/_jquery-ui.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/vendors/_jquery-ui.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/commons/facebook_chat.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/commons/facebook_chat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/block01.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/block02.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/block03.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/block04.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block04.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/block05.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block05.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/base.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -11966,7 +11873,7 @@
       <change beforePath="$PROJECT_DIR$/../../../base/scss/vendors/_bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/scss/vendors/_bootstrap.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/scss/vendors/_jquery-ui.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/scss/vendors/_jquery-ui.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../base/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/style.css.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/template-parts/commons/facebook_chat.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/template-parts/commons/facebook_chat.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/template-parts/layouts/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/template-parts/layouts/footer.php" afterDir="false" />
@@ -12061,7 +11968,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -12073,6 +11980,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3f9da62c-31d0-4570-975d-947950edf007" name="Default Changelist" comment="" />
@@ -12090,7 +12000,11 @@
       <workItem from="1616648254921" duration="5929000" />
       <workItem from="1616723595596" duration="780000" />
       <workItem from="1616724822746" duration="87000" />
-      <workItem from="1616724917775" duration="3136000" />
+      <workItem from="1616724917775" duration="4205000" />
+      <workItem from="1616745447120" duration="2181000" />
+      <workItem from="1616754079357" duration="419000" />
+      <workItem from="1616771549768" duration="597000" />
+      <workItem from="1616978025778" duration="679000" />
     </task>
     <servers />
   </component>
