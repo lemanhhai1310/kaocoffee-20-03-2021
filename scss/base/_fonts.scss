@@ -44,6 +44,13 @@
   font-style:normal;
 }
 @font-face{
+  font-family:'Roboto Light';
+  font-display: auto;
+  src:local('Roboto Light'), url('fonts/Roboto-Light_0.ttf') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+@font-face{
   font-family:'Roboto Bold Italic';
   font-display: auto;
   src:local('Roboto Bold Italic'), url('fonts/Fonts/Roboto-BoldItalic.ttf') format('truetype');

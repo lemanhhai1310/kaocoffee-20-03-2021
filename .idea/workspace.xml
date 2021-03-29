@@ -11809,9 +11809,13 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/tracuudonhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/tracuudonhang.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/base/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_pagination.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/base.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -11957,7 +11961,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scss/components" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -11973,10 +11977,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/scss/layout" />
+      <recent name="$PROJECT_DIR$/scss/components" />
       <recent name="$PROJECT_DIR$/template-parts/layouts" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/scss/pages" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -12004,7 +12009,9 @@
       <workItem from="1616745447120" duration="2181000" />
       <workItem from="1616754079357" duration="419000" />
       <workItem from="1616771549768" duration="597000" />
-      <workItem from="1616978025778" duration="679000" />
+      <workItem from="1616978025778" duration="1152000" />
+      <workItem from="1616979325019" duration="61000" />
+      <workItem from="1616980033171" duration="1383000" />
     </task>
     <servers />
   </component>
