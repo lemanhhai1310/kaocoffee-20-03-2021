@@ -1,7 +1,7 @@
 <?php $data["title"] = "Menu"; ?>
 <?php $is_home = false; ?>
 <?php require "template-parts/layouts/header.php"; ?>
-<div class="uk-background-norepeat menu__section1 uk-position-relative uk-background-cover uk-light" data-src="images/05600a6dc19a37ef746fb267902398bf2.png" uk-img>
+<div class="uk-background-norepeat uk-visible@m menu__section1 uk-position-relative uk-background-cover uk-light" data-src="images/05600a6dc19a37ef746fb267902398bf2.png" uk-img>
     <div class="uk-position-cover menu__overlay"></div>
     <div class="uk-position-relative uk-position-z-index uk-section-small uk-text-center">
         <div class="uk-container">
@@ -30,8 +30,33 @@
         <div class="uk-grid-small uk-grid-20-m" uk-grid>
             <div class="uk-width-expand">
                 <div class="uk-background-default uk-border-rounded menu__content">
+                    <nav class="uk-hidden@m menu__nav2 uk-navbar-container uk-navbar-transparent" uk-navbar>
+                        <div class="nav-overlay uk-navbar-left uk-overflow-auto uk-flex-1">
+                            <ul class="uk-navbar-nav uk-flex-nowrap" style="width: max-content">
+                                <li class="uk-active"><a href="">Coffee & More</a></li>
+                                <li><a href="">Tea & Another</a></li>
+                                <li><a href="">Snacks</a></li>
+                                <li><a href="">Combo Phố Vui</a></li>
+                                <li><a href="">Phố Giòn</a></li>
+                                <li><a href="">Phố Tươi Trẻ</a></li>
+                                <li><a href="">Phố Lai Rai</a></li>
+                                <li><a href="">Phố Trà & Nước</a></li>
+                            </ul>
+                        </div>
+                        <div class="nav-overlay uk-navbar-right">
+                            <a class="uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+                        </div>
+                        <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
+                            <div class="uk-navbar-item uk-width-expand">
+                                <form class="uk-search uk-search-navbar uk-width-1-1">
+                                    <input class="uk-search-input" type="search" placeholder="Search" autofocus>
+                                </form>
+                            </div>
+                            <a class="uk-navbar-toggle" uk-close uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+                        </div>
+                    </nav>
                     <div class="uk-grid-divider uk-grid-small uk-grid-match" uk-grid>
-                        <div class="uk-width-1-4@m">
+                        <div class="uk-width-1-4@m uk-visible@m">
                             <div class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-top" uk-sticky="offset: 80;media: @m;bottom: true;">
                                 <div class="uk-section-xsmall">
                                     <h3 class="uk-h3 menu__titleThucdon">Thực đơn</h3>
@@ -46,20 +71,20 @@
                         <div class="uk-width-expand">
                             <div class="uk-padding-small menu__padding1 uk-padding-remove-bottom uk-padding-remove-top">
                                 <div class="uk-section-xsmall">
-                                    <div class="uk-margin">
+                                    <div class="uk-margin uk-visible@m">
                                         <form class="uk-search uk-search-default menu__boxSearch">
                                             <span uk-search-icon></span>
                                             <input class="uk-search-input" type="search" placeholder="Tìm món nhanh">
                                         </form>
                                     </div>
-                                    <div class="uk-margin-medium" id="coffee-more1">
+                                    <div class="" uk-toggle="cls: uk-margin-medium; mode: media; media: @m" id="coffee-more1">
                                         <h3 class="uk-h3 menu__title1" id="coffee-more" uk-sticky="bottom: #tea-another;offset: 100;media: @m">Coffee & More</h3>
                                         <div class="uk-grid-small uk-grid-20-m" uk-grid>
                                             <?php for($i=0;$i<=10;$i++): ?>
                                                 <div class="uk-width-1-1">
                                                     <div class="uk-card menu__card2 uk-card-default uk-card-body uk-padding-small uk-border-rounded">
                                                         <div class="uk-flex-middle" uk-grid>
-                                                            <div class="uk-width-auto@m">
+                                                            <div class="uk-width-1-3 uk-width-auto@m">
                                                                 <div class="menu__card2__bg">
                                                                     <img class="uk-responsive-height uk-responsive-width" src="images/mug_coffee_PNG168241.png" alt="">
                                                                 </div>
@@ -70,7 +95,7 @@
                                                                 <div class="menu__card2__price menu__card2__price__old"><del>50.000đ</del></div>
                                                                 <div class="menu__card2__price menu__card2__price__new">50.000đ</div>
                                                             </div>
-                                                            <div class="uk-width-auto@m">
+                                                            <div class="uk-width-auto">
                                                                 <a href="" class="menu__card2__link" uk-icon="icon: plus-circle; ratio: 1"></a>
                                                             </div>
                                                         </div>
@@ -86,7 +111,7 @@
                                                 <div class="uk-width-1-1">
                                                     <div class="uk-card menu__card2 uk-card-default uk-card-body uk-padding-small uk-border-rounded">
                                                         <div class="uk-flex-middle" uk-grid>
-                                                            <div class="uk-width-auto@m">
+                                                            <div class="uk-width-1-3 uk-width-auto@m">
                                                                 <div class="menu__card2__bg">
                                                                     <img class="uk-responsive-height uk-responsive-width" src="images/mug_coffee_PNG168241.png" alt="">
                                                                 </div>
@@ -97,7 +122,7 @@
                                                                 <div class="menu__card2__price menu__card2__price__old"><del>50.000đ</del></div>
                                                                 <div class="menu__card2__price menu__card2__price__new">50.000đ</div>
                                                             </div>
-                                                            <div class="uk-width-auto@m">
+                                                            <div class="uk-width-auto">
                                                                 <a href="" class="menu__card2__link" uk-icon="icon: plus-circle; ratio: 1"></a>
                                                             </div>
                                                         </div>
@@ -113,7 +138,7 @@
                                                 <div class="uk-width-1-1">
                                                     <div class="uk-card menu__card2 uk-card-default uk-card-body uk-padding-small uk-border-rounded">
                                                         <div class="uk-flex-middle" uk-grid>
-                                                            <div class="uk-width-auto@m">
+                                                            <div class="uk-width-1-3 uk-width-auto@m">
                                                                 <div class="menu__card2__bg">
                                                                     <img class="uk-responsive-height uk-responsive-width" src="images/mug_coffee_PNG168241.png" alt="">
                                                                 </div>
@@ -124,7 +149,7 @@
                                                                 <div class="menu__card2__price menu__card2__price__old"><del>50.000đ</del></div>
                                                                 <div class="menu__card2__price menu__card2__price__new">50.000đ</div>
                                                             </div>
-                                                            <div class="uk-width-auto@m">
+                                                            <div class="uk-width-auto">
                                                                 <a href="" class="menu__card2__link" uk-icon="icon: plus-circle; ratio: 1"></a>
                                                             </div>
                                                         </div>
@@ -140,7 +165,7 @@
                 </div>
             </div>
             <div class="uk-width-1-3@m">
-                <div class="uk-card uk-card-default menu__card3 uk-overflow-hidden" uk-sticky="offset: 100;media: @m;bottom: true;">
+                <div class="uk-card uk-visible@m uk-card-default menu__card3 uk-overflow-hidden" uk-sticky="offset: 100;media: @m;bottom: true;">
                     <div class="uk-card-header">
                         <h3 class="uk-h3 menu__titleThucdon">Món chọn</h3>
                     </div>
@@ -218,6 +243,23 @@
                         </tr>
                         </tbody>
                     </table>
+                </div>
+                <div class="uk-hidden@m uk-position-fixed uk-position-bottom uk-padding-small uk-position-z-index">
+                    <a href="order.php" class="uk-link-toggle">
+                        <div class="menu__card3__table__btn">
+                            <div class="uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <div class="menu__card3__submit__txt1">3 món</div>
+                                    <div class="menu__card3__submit__txt2"><del>150.000đ</del></div>
+                                    <div class="menu__card3__submit__txt3">140.000đ</div>
+                                </div>
+                                <div class="uk-width-auto">
+                                    <span class="menu__card3__submit__txt4 uk-text-middle uk-margin-small-right">ĐẶT NGAY</span>
+                                    <span uk-icon="icon: arrow-right; ratio: 1.2"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
