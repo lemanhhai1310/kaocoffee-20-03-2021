@@ -11552,7 +11552,6 @@
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/locvieclam.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/locvieclam.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02/vieclam123/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/scss/base/_color.scss" afterDir="false" />
@@ -11855,7 +11854,7 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/tracuudonhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/tracuudonhang.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/base/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_helpers.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_typography.scss" afterDir="false" />
@@ -11873,6 +11872,7 @@
       <change beforePath="$PROJECT_DIR$/scss/layout/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_sidebar.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/pages/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/pages/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_menu.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/themes/_admin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/themes/_admin.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/themes/_theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/themes/_theme.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/vendors/_bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/vendors/_bootstrap.scss" afterDir="false" />
@@ -12031,6 +12031,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -12085,7 +12086,9 @@
       <workItem from="1617069322263" duration="6345000" />
       <workItem from="1617087023036" duration="63000" />
       <workItem from="1617263239050" duration="261000" />
-      <workItem from="1617355247639" duration="8000" />
+      <workItem from="1617355247639" duration="1332000" />
+      <workItem from="1617424115970" duration="571000" />
+      <workItem from="1617583713406" duration="2138000" />
     </task>
     <servers />
   </component>

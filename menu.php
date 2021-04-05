@@ -30,12 +30,12 @@
         <div class="uk-grid-small uk-grid-20-m" uk-grid>
             <div class="uk-width-expand">
                 <div class="uk-background-default uk-border-rounded menu__content">
-                    <nav class="uk-hidden@m menu__nav2 uk-navbar-container uk-navbar-transparent" uk-navbar>
+                    <nav uk-sticky="offset: 60;bottom: true;" class="uk-hidden@m menu__nav2 uk-navbar-container uk-navbar-transparent uk-background-default" uk-navbar>
                         <div class="nav-overlay uk-navbar-left uk-overflow-auto uk-flex-1">
-                            <ul class="uk-navbar-nav uk-flex-nowrap" style="width: max-content">
-                                <li class="uk-active"><a href="">Coffee & More</a></li>
-                                <li><a href="">Tea & Another</a></li>
-                                <li><a href="">Snacks</a></li>
+                            <ul class="uk-navbar-nav uk-flex-nowrap" uk-scrollspy-nav="closest: li; scroll: true;offset: 60;" style="width: max-content">
+                                <li class="uk-active"><a href="#coffee-more1">Coffee & More</a></li>
+                                <li><a href="#tea-another1">Tea & Another</a></li>
+                                <li><a href="#snack1">Snacks</a></li>
                                 <li><a href="">Combo Phố Vui</a></li>
                                 <li><a href="">Phố Giòn</a></li>
                                 <li><a href="">Phố Tươi Trẻ</a></li>
@@ -57,7 +57,7 @@
                     </nav>
                     <div class="uk-grid-divider uk-grid-small uk-grid-match" uk-grid>
                         <div class="uk-width-1-4@m uk-visible@m">
-                            <div class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-top" uk-sticky="offset: 80;media: @m;bottom: true;">
+                            <div class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-top" uk-sticky="offset: 80;bottom: true;">
                                 <div class="uk-section-xsmall">
                                     <h3 class="uk-h3 menu__titleThucdon">Thực đơn</h3>
                                     <ul class="uk-nav uk-nav-default menu__nav1" uk-scrollspy-nav="closest: li; scroll: true;offset: 80;">
