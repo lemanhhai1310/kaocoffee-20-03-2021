@@ -57,7 +57,7 @@
                     </nav>
                     <div class="uk-grid-divider uk-grid-small uk-grid-match" uk-grid>
                         <div class="uk-width-1-4@m uk-visible@m">
-                            <div class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-top" uk-sticky="offset: 80;bottom: true;">
+                            <div class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-top" uk-sticky="offset: 80;">
                                 <div class="uk-section-xsmall">
                                     <h3 class="uk-h3 menu__titleThucdon">Thực đơn</h3>
                                     <ul class="uk-nav uk-nav-default menu__nav1" uk-scrollspy-nav="closest: li; scroll: true;offset: 80;">

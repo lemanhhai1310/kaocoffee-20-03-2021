@@ -11855,28 +11855,6 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/tracuudonhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/tracuudonhang.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_helpers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_animations.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_breadcrumb.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_carousel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_keyframes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_keyframes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_modal.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_slider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_tabs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_home.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_menu.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/themes/_admin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/themes/_admin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/themes/_theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/themes/_theme.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/vendors/_bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/vendors/_bootstrap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/vendors/_jquery-ui.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/vendors/_jquery-ui.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/base.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -12088,7 +12066,7 @@
       <workItem from="1617263239050" duration="261000" />
       <workItem from="1617355247639" duration="1332000" />
       <workItem from="1617424115970" duration="571000" />
-      <workItem from="1617583713406" duration="2138000" />
+      <workItem from="1617583713406" duration="2387000" />
     </task>
     <servers />
   </component>
