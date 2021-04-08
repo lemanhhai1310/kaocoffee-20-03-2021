@@ -188,6 +188,70 @@
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/template-parts/commons/facebook_chat.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/template-parts/layouts/footer.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/template-parts/layouts/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/COMMITMENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/get_oauth_token.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-af.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-am.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-ar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-az.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-ba.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-be.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-bg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-ca.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-ch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-cs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-da.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-el.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-eo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-es.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-et.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-fa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-fi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-fo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-fr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-gl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-he.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-hi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-hr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-hu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-it.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-ja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-ka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-ko.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-lt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-lv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-mg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-ms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-nb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-nl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-pt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-pt_br.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-ro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-sk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-sl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-sr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-sv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-tl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-tr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-uk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-vi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-zh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/language/phpmailer.lang-zh_cn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/src/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/src/OAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/src/PHPMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/src/POP3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/mail/phpmailer/src/SMTP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popup1/send-mailer.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sendmail/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sendmail/.idea/sendmail.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sendmail/.idea/vcs.xml" afterDir="false" />
@@ -9552,28 +9616,10 @@
       <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/images/nguyenlich.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/images/nguyenlich.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/images/phoneicon-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/images/phoneicon-1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/images/zaloicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/images/zaloicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/base/_color.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/base/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/base/_helpers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_animations.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_carousel.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_menumobile_nguyenlich.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_menumobile_nguyenlich.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_slider.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_social.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/components/_social.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/layout/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/layout/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/layout/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/layout/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/layout/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/layout/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/pages/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/pages/_about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/pages/_catalog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/pages/_catalog.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/pages/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/pages/_contact.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/pages/_detail.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/pages/_detail.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/themes/_admin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/themes/_admin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/themes/_theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/themes/_theme.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/vendors/_bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/vendors/_bootstrap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/vendors/_jquery-ui.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/scss/vendors/_jquery-ui.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/template-parts/block1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/template-parts/block1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/template-parts/block2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/template-parts/block2.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/nguyenlich/template-parts/block3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/nguyenlich/template-parts/block3.php" afterDir="false" />
@@ -9605,33 +9651,17 @@
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/images/detail/hoan_tien.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/images/detail/hoan_tien.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/images/detail/top_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/images/detail/top_left.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/images/detail/top_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/images/detail/top_right.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/base/_color.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/base/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/base/_helpers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_animations.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_breadcrumb.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_carousel.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_dropdown_cart.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_dropdown_cart.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_modal.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_rate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_rate.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/components/_slider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/layout/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/layout/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/layout/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/layout/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/layout/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/layout/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_cart.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_cart.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_catalog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_catalog.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_contact.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_detail.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_detail.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_news.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_news.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_news_detail.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_news_detail.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_success_pay.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_success_pay.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_user.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/pages/_user.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/themes/_admin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/themes/_admin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/vendors/_bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/vendors/_bootstrap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/vendors/_jquery-ui.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/scss/vendors/_jquery-ui.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/11/shopnhalam/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/11/shopnhalam/style.scss" afterDir="false" />
@@ -9884,7 +9914,6 @@
       <change beforePath="$PROJECT_DIR$/../../../2020/12/hanoihme/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/hanoihme/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/base/_color.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/base/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/hanoihme/scss/base/_helpers.scss" afterDir="false" />
@@ -10046,7 +10075,6 @@
       <change beforePath="$PROJECT_DIR$/../../../2020/12/modena/sanpham.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/modena/sanpham.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/modena/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/modena/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/modena/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/modena/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/12/modena/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/modena/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/modena/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/modena/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/modena/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/modena/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/modena/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/modena/scss/base/_color.scss" afterDir="false" />
@@ -10544,7 +10572,6 @@
       <change beforePath="$PROJECT_DIR$/../../../2020/12/nhakhoa/scss/themes/_admin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/nhakhoa/scss/themes/_admin.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/nhakhoa/scss/themes/_theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/nhakhoa/scss/themes/_theme.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/nhakhoa/scss/vendors/_bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/nhakhoa/scss/vendors/_bootstrap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/12/nhakhoa/scss/vendors/_jquery-ui.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/nhakhoa/scss/vendors/_jquery-ui.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/nhakhoa/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/nhakhoa/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/nhakhoa/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/nhakhoa/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/nhakhoa/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/nhakhoa/style.scss" afterDir="false" />
@@ -10682,7 +10709,6 @@
       <change beforePath="$PROJECT_DIR$/../../../2020/12/zee5/movie.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/zee5/movie.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/zee5/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/zee5/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/zee5/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/zee5/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../2020/12/zee5/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/zee5/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/zee5/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/zee5/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/zee5/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/zee5/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../2020/12/zee5/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2020/12/zee5/scss/base/_color.scss" afterDir="false" />
@@ -10752,7 +10778,6 @@
       <change beforePath="$PROJECT_DIR$/../../01/baotinmanhhai/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/baotinmanhhai/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/baotinmanhhai/scss/base/_color.scss" afterDir="false" />
@@ -10879,7 +10904,6 @@
       <change beforePath="$PROJECT_DIR$/../../01/ceogroup/quanlytaikhoan.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/ceogroup/quanlytaikhoan.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/ceogroup/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/ceogroup/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/ceogroup/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/ceogroup/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01/ceogroup/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/ceogroup/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/ceogroup/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/ceogroup/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/ceogroup/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/ceogroup/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/ceogroup/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/ceogroup/scss/base/_color.scss" afterDir="false" />
@@ -11033,7 +11057,6 @@
       <change beforePath="$PROJECT_DIR$/../../01/trekhoedep/product-detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/trekhoedep/product-detail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/trekhoedep/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/trekhoedep/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/trekhoedep/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/trekhoedep/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01/trekhoedep/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/trekhoedep/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/trekhoedep/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/trekhoedep/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/trekhoedep/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/trekhoedep/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/trekhoedep/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/trekhoedep/scss/base/_color.scss" afterDir="false" />
@@ -11119,7 +11142,6 @@
       <change beforePath="$PROJECT_DIR$/../../01/xtrading/kehoach.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/xtrading/kehoach.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/xtrading/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/xtrading/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/xtrading/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/xtrading/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01/xtrading/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/xtrading/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/xtrading/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/xtrading/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/xtrading/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/xtrading/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/xtrading/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../01/xtrading/scss/base/_color.scss" afterDir="false" />
@@ -11180,7 +11202,6 @@
       <change beforePath="$PROJECT_DIR$/../../02/bro6/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/bro6/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/bro6/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/bro6/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/bro6/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/bro6/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02/bro6/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/bro6/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/bro6/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/bro6/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/bro6/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/bro6/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/bro6/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/bro6/scss/base/_color.scss" afterDir="false" />
@@ -11260,7 +11281,6 @@
       <change beforePath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/scss/base/_color.scss" afterDir="false" />
@@ -11793,7 +11813,6 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/quotation.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/quotation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hopgiaygiare/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/scss/base/_color.scss" afterDir="false" />
@@ -11854,7 +11873,7 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/tracuudonhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/tracuudonhang.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/pages/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_menu.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/base.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -11881,7 +11900,6 @@
       <change beforePath="$PROJECT_DIR$/../../../base/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/scss/abstracts/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/scss/abstracts/_breakpoints.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/scss/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/scss/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../base/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/scss/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/scss/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/scss/base/_color.scss" afterDir="false" />
@@ -12066,7 +12084,8 @@
       <workItem from="1617263239050" duration="261000" />
       <workItem from="1617355247639" duration="1332000" />
       <workItem from="1617424115970" duration="571000" />
-      <workItem from="1617583713406" duration="2387000" />
+      <workItem from="1617583713406" duration="3135000" />
+      <workItem from="1617849635677" duration="60000" />
     </task>
     <servers />
   </component>
