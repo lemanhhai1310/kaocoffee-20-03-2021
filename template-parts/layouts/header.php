@@ -60,6 +60,12 @@
 
                         </div>
                     </div>
+                    <div class="uk-navbar-item">
+                        <div class="uk-grid-5 uk-child-width-auto" uk-grid>
+                            <div><a href=""><img src="images/tiengviet.jpg" alt=""></a></div>
+                            <div><a href=""><img src="images/tienganh.jpg" alt=""></a></div>
+                        </div>
+                    </div>
                 </div>
             </nav>
         </div>
