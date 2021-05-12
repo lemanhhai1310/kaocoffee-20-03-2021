@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f9da62c-31d0-4570-975d-947950edf007" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/05600a6dc19a37ef746fb267902398bf2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/05600a6dc19a37ef746fb267902398bf2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/404.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/404.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Frame-bgcontact.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Frame-bgcontact.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Frame.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Frame.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Group-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Group-left.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Group66-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Group66-right.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Group90.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Group90.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/all1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/all1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banh-snack-khoai-tay-nong-hoi1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/banh-snack-khoai-tay-nong-hoi1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg_lienhe.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_lienhe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dark.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/dark.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/european-specialty-coffee-market-by-pointbleu-design-blog-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/european-specialty-coffee-market-by-pointbleu-design-blog-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/european-specialty-coffee-market-by-pointbleu-design-blog1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/european-specialty-coffee-market-by-pointbleu-design-blog1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fb1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/fb1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/khoai-tay-chien1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/khoai-tay-chien1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lemanhhai_anhthe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lemanhhai_anhthe.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/light.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/light.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/line1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/line1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logoSaleNoti1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logoSaleNoti1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_f.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo_f.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mug_coffee_PNG168241.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mug_coffee_PNG168241.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/photo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/zalo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/zalo1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/header.php" afterDir="false" />
-    </list>
+    <list default="true" id="3f9da62c-31d0-4570-975d-947950edf007" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +108,7 @@
       <workItem from="1617424115970" duration="571000" />
       <workItem from="1617583713406" duration="3135000" />
       <workItem from="1617849635677" duration="60000" />
-      <workItem from="1620694981593" duration="640000" />
+      <workItem from="1620694981593" duration="811000" />
     </task>
     <servers />
   </component>
